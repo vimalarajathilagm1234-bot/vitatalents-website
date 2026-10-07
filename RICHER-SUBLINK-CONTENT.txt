@@ -1,0 +1,13 @@
+VitaTalents — Richer Sublink Content Update (2026)
+
+Expanded the internal sublink pages across Services, Solutions, Industries, Technology, Insights and Company.
+
+Each expanded page now includes:
+- stronger page-specific hero copy
+- four detailed capability/solution areas
+- practical work products / deliverables
+- best-fit guidance
+- internal links to related pages
+- no fabricated client names, awards, certifications, statistics or performance claims
+
+The responsive hero fix from the previous version is retained.

@@ -1,0 +1,12 @@
+VitaTalents 2026 — TCS + VDart build fixed
+
+Issue fixed:
+The previous package stored several expanded pages as raw HTML strings while the
+SPA renderer expected page objects with {title, main}. This caused navigation/
+rendering failures.
+
+All 41 routes are now normalized to the expected structure. A defensive fallback
+was also added so a malformed route cannot blank the page.
+
+The site remains a single self-contained HTML application for local PC/mobile
+testing, with hash routes and no external CSS/JS dependencies.

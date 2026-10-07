@@ -1,0 +1,1 @@
+Removed the visible white header strip/bottom border around the transparent VitaTalents logo. The header now inherits the website background; mobile navigation dropdown remains white for readability.

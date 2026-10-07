@@ -1,0 +1,1 @@
+Header fixed in place: it stays at the top while page content scrolls. Desktop and mobile spacing is reserved so the hero/content is not hidden.

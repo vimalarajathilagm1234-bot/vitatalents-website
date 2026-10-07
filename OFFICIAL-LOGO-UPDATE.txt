@@ -1,0 +1,2 @@
+Updated the VitaTalents website with the logo supplied by the user on 2026-10-07.
+The logo is embedded into the standalone HTML files and also included as vitatelents-official-logo.png for deployment/editing.

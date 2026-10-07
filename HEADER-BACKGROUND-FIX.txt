@@ -1,0 +1,1 @@
+Header remains fixed and uses an opaque light background while scrolling. Page content does not show through the header.

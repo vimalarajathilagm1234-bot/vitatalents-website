@@ -1,0 +1,1 @@
+Browser tab fixed to show the VitaTalents favicon and the exact title VITA TALENTS. Dynamic SPA titles were normalized so PVT LTD cannot return after navigation. Favicon is provided as local favicon.ico and favicon.png for reliable Chrome loading.

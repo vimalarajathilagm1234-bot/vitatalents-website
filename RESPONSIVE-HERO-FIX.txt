@@ -1,0 +1,4 @@
+VitaTalents Responsive Hero Fix
+
+Updated the hero technology/business visual so floating SaaS, Cloud, AI & Data and Talent labels no longer overlap or clip on tablet/mobile.
+Desktop positioning is preserved; narrower screens switch the decorative labels into a clean responsive 2-column layout.

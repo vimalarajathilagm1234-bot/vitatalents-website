@@ -1,0 +1,1 @@
+Browser tab favicon contains ONLY the VitaTalents colored symbol. No letters or wordmark are included in the favicon.

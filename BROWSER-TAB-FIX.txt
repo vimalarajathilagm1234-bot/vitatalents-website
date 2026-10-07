@@ -1,0 +1,1 @@
+Browser tab fix: uses favicon-vitatelents.ico (16/24/32/48/64/128/256) plus a 256px PNG fallback. All HTML pages explicitly reference these files. Hard-refresh the browser after upload if an old favicon remains cached.

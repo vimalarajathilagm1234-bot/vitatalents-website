@@ -1,0 +1,14 @@
+VitaTalents 2026 — Enterprise Service Structure Update
+
+The service and solution pages were expanded using the INFORMATION ARCHITECTURE of the supplied VDart reference:
+- strong service hero
+- What We Do
+- organized service/solution models
+- digital/business capability sectors
+- delivery approach
+- engagement model
+- strong enquiry CTA
+
+The VitaTalents copy, positioning, branding, claims and examples remain original.
+No VDart customer claims, certifications, statistics, logos, or proprietary wording were copied.
+The responsive hero fix from the previous package is retained.

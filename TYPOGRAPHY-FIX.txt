@@ -1,0 +1,7 @@
+Updated VitaTalents responsive typography.
+
+Desktop: controlled hero and section heading sizes.
+Tablet: reduced headline scale and spacing.
+Mobile: compact readable headings/body text.
+Very small phones: additional reduction to prevent overflow.
+Card typography is kept smaller than page headings to preserve visual hierarchy.

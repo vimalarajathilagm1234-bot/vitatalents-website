@@ -1,0 +1,1 @@
+Expert header refinement: header and hero use the same #f6f8fc surface, with a subtle 1px divider, controlled enterprise spacing, stable logo sizing, clean navigation and a premium dark CTA. The header remains fixed and opaque.

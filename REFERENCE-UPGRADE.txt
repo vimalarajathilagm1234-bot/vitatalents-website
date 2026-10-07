@@ -1,0 +1,10 @@
+VitaTalents 2026 — TCS + VDart inspired enterprise structure
+
+Reference principles used:
+- TCS-style breadth: clear Services, Industries, Products/Solutions, Insights, Company and careers-style information architecture.
+- TCS-style capability grouping: technology domains, industries, consulting, cloud, AI/data, engineering and business transformation.
+- VDart-style depth on talent pages: clear talent/workforce models, specialist digital sectors, delivery approach and enquiry CTA.
+- VitaTalents remains positioned as a technology consulting, SaaS, transformation and talent solutions company.
+
+No third-party logos, proprietary copy, customer claims, certifications, statistics or branding were copied.
+The VitaTalents logo, contact details, address, 2026 copyright and responsive behavior are retained.

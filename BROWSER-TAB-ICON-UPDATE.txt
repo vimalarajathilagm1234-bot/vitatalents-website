@@ -1,0 +1,3 @@
+Added a VitaTalents browser-tab favicon using the supplied official logo.
+The tab title remains: VITA TALENTS PVT LTD.
+Included favicon.ico plus PNG fallback and Apple touch icon declarations.
