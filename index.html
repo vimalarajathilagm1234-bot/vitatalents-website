@@ -1140,6 +1140,143 @@ header.site-header .contact-drop-item:hover,
 }
 </style>
 
+
+<style id="vitatelents-mobile-menu-full-width-final">
+/* Final mobile navigation geometry.
+   The menu is attached to the viewport so it can never shrink to the width
+   of the header/logo/CTA or be clipped by a parent flex item. */
+@media (max-width:800px){
+  .site-header{
+    position:sticky !important;
+    top:0 !important;
+    z-index:100000 !important;
+    overflow:visible !important;
+  }
+
+  .site-header .nav,
+  header.site-header .nav{
+    position:relative !important;
+    overflow:visible !important;
+  }
+
+  .site-header .navlinks,
+  header.site-header .navlinks{
+    position:fixed !important;
+    top:72px !important;
+    left:14px !important;
+    right:auto !important;
+    width:calc(100vw - 28px) !important;
+    max-width:none !important;
+    height:auto !important;
+    max-height:calc(100vh - 86px) !important;
+    margin:0 !important;
+    padding:10px !important;
+    box-sizing:border-box !important;
+    display:none !important;
+    flex-direction:column !important;
+    align-items:stretch !important;
+    gap:2px !important;
+    overflow-x:hidden !important;
+    overflow-y:auto !important;
+    background:#fff !important;
+    border:1px solid #e6e9ee !important;
+    border-radius:16px !important;
+    box-shadow:0 18px 50px rgba(16,24,40,.16) !important;
+    z-index:100001 !important;
+  }
+
+  .site-header .navlinks.mobile-open,
+  header.site-header .navlinks.mobile-open{
+    display:flex !important;
+  }
+
+  .site-header .navlinks > .nav-dropdown,
+  header.site-header .navlinks > .nav-dropdown,
+  .site-header .navlinks > .nav-plain,
+  header.site-header .navlinks > .nav-plain,
+  .site-header .navlinks > .nav-cta,
+  header.site-header .navlinks > .nav-cta{
+    flex:0 0 auto !important;
+    width:100% !important;
+    max-width:none !important;
+    box-sizing:border-box !important;
+  }
+
+  .site-header .navlinks > .nav-dropdown > .nav-drop-btn,
+  header.site-header .navlinks > .nav-dropdown > .nav-drop-btn,
+  .site-header .navlinks > .nav-plain,
+  header.site-header .navlinks > .nav-plain{
+    width:100% !important;
+    min-height:48px !important;
+    height:48px !important;
+    display:flex !important;
+    align-items:center !important;
+    justify-content:center !important;
+    box-sizing:border-box !important;
+    padding:0 12px !important;
+    margin:0 !important;
+    text-align:center !important;
+  }
+
+  .site-header .navlinks > .nav-dropdown > .dropdown-panel,
+  header.site-header .navlinks > .nav-dropdown > .dropdown-panel{
+    position:static !important;
+    left:auto !important;
+    right:auto !important;
+    top:auto !important;
+    transform:none !important;
+    width:100% !important;
+    max-width:none !important;
+    margin:0 !important;
+    box-sizing:border-box !important;
+    border:0 !important;
+    border-top:1px solid #e6e9ee !important;
+    border-radius:0 !important;
+    box-shadow:none !important;
+    padding:5px !important;
+    overflow:visible !important;
+  }
+
+  .site-header .navlinks > .nav-dropdown > .dropdown-panel.open,
+  header.site-header .navlinks > .nav-dropdown > .dropdown-panel.open{
+    display:block !important;
+  }
+
+  .site-header .navlinks > .nav-dropdown .dropdown-grid,
+  header.site-header .navlinks > .nav-dropdown .dropdown-grid{
+    width:100% !important;
+    grid-template-columns:1fr !important;
+    gap:2px !important;
+  }
+
+  .site-header .navlinks > .nav-dropdown .drop-item,
+  header.site-header .navlinks > .nav-dropdown .drop-item{
+    width:100% !important;
+    box-sizing:border-box !important;
+    text-align:center !important;
+    padding:13px 12px !important;
+  }
+
+  .site-header .navlinks > .nav-cta,
+  header.site-header .navlinks > .nav-cta{
+    width:100% !important;
+    min-height:48px !important;
+    height:48px !important;
+    margin:6px 0 0 !important;
+    display:flex !important;
+    align-items:center !important;
+    justify-content:center !important;
+    box-sizing:border-box !important;
+  }
+
+  .site-header .mobile-btn,
+  header.site-header .mobile-btn{
+    position:relative !important;
+    z-index:100002 !important;
+  }
+}
+</style>
+
 </head>
 <body>
 <a class="skip" href="#main">Skip to content</a>
