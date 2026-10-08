@@ -1,0 +1,1 @@
+This package corrects header CTA selector scope, Company > Contact dropdown sizing/alignment, mobile navigation sizing/alignment, and separates the Email label from the mailto hyperlink. Use index.html as the GitHub Pages entry point.

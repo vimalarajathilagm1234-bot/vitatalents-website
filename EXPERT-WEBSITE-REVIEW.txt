@@ -1,0 +1,25 @@
+VITATALENTS — EXPERT WEBSITE REVIEW / FINAL PATCH
+
+Functional fixes
+- Desktop dropdown cards are explicitly clickable and layered above the page.
+- Company > Contact is a normal navigation card, not a dark CTA.
+- Approach is a real route link and remains clickable.
+- Footer Contact and About VitaTalents have clear click targets.
+- Mobile menu items share one consistent full-width alignment.
+- Email presentation is separated: "Email" is plain text; only "contact@vitatalents.com →" is the hyperlink.
+- Both index.html (the GitHub Pages entry point) and VitaTalents-Website.html were patched.
+- Existing SPA hash routing and page data are preserved.
+
+Content / brand review
+- Positioning: Technology. Talent. Transformation.
+- Core focus: SaaS product development, strategy, technology consulting, process improvement, talent acquisition, HCM and staffing.
+- Solutions: SaaS & Digital Products, Digital Transformation, Process Optimization, Workforce Solutions.
+- Industries: Technology & SaaS, Healthcare, Financial Services, Retail & E-commerce, Manufacturing, Logistics & Supply Chain, Education, Professional Services, Startups & SMEs.
+- Company: About, Vision & Mission, Values, Why VitaTalents, Careers, Contact.
+- Primary email: contact@vitatalents.com
+- Corporate office: 54/1, 1st Floor, 4th Cross West, STV Nagar, Coimbatore - 641 004
+- Copyright: © 2026 VitaTalents. All rights reserved.
+- No fabricated customer logos, statistics, testimonials or performance claims.
+
+Deployment
+Replace the repository website files with this package. Do not change the working Hostinger DNS or GitHub Pages custom-domain configuration.
